@@ -8,6 +8,14 @@ List of interesting materials, articles, notes, repositores, recepies and other 
   * [Simple TypeScript Tricks to Scale Your Applications Infinitely](https://habr.com/en/company/tinkoff/blog/521262/) **[RU]**.
 </details>
 
+## Repositories
+<details>
+  <summary>:computer: Show list ... </summary>
+  
+  * [utility-types](https://github.com/piotrwitek/utility-types) - Collection of utility types, complementing TypeScript built-in mapped types and aliases (think "lodash" for static types) **[>2.4k :star:]**.
+</details>
+
+
 ## Documentation
 <details>
   <summary>:green_book: Show list ... </summary>
