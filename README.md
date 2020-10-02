@@ -13,6 +13,7 @@ List of interesting materials, articles, notes, repositores, recepies and other 
   <summary>:computer: Show list ... </summary>
   
   * [utility-types](https://github.com/piotrwitek/utility-types) - Collection of utility types, complementing TypeScript built-in mapped types and aliases (think "lodash" for static types) **[>2.4k :star:]**.
+  * [ts-toolbelt](https://github.com/millsp/ts-toolbelt) - Higher Type Safety for TypeScript. A collection of useful types **[>1.7k :star:]**.
 </details>
 
 
