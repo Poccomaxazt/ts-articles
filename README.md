@@ -5,5 +5,14 @@ List of interesting materials, articles, notes, repositores, recepies and other 
 <details>
   <summary>:pencil: Show list ... </summary>
   
-  * [Простые TypeScript-хитрости, которые позволят масштабировать ваши приложения бесконечно](https://habr.com/en/company/tinkoff/blog/521262/) **[RU]**.
+  * [Simple TypeScript Tricks to Scale Your Applications Infinitely](https://habr.com/en/company/tinkoff/blog/521262/) **[RU]**.
 </details>
+
+## Documentation
+<details>
+  <summary>:green_book: Show list ... </summary>
+  
+  * [Official TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) **[EN]**.
+</details>
+
+
