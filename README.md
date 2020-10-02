@@ -1,11 +1,12 @@
 # ts-articles
-List of interesting materials, articles, notes, repositores, recepies and other things about TypeScript world.
+List of interesting materials, articles, notes, repositories, recipes and other things about TypeScript world.
 
 ## Articles
 <details>
   <summary>:pencil: Show list ... </summary>
   
   * [Simple TypeScript Tricks to Scale Your Applications Infinitely](https://habr.com/en/company/tinkoff/blog/521262/) **[RU]**.
+  * [TypeScript. Power of Never](https://habr.com/en/post/471026/) **[RU]**.
 </details>
 
 ## Repositories
