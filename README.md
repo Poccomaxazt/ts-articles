@@ -19,6 +19,13 @@ List of interesting materials, articles, notes, repositories, recipes and other 
   * [ts-toolbelt](https://github.com/millsp/ts-toolbelt) - Higher Type Safety for TypeScript. A collection of useful types **[>1.7k :star:]**.
 </details>
 
+## Books
+> Links which have :computer: icon exist with online version of the book, :book: icon - only with paper version .
+<details>
+  <summary>:pencil: Show list ... </summary>
+  
+  * [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/) :computer:.
+</details>
 
 ## Documentation
 <details>
