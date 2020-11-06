@@ -9,6 +9,7 @@ List of interesting materials, articles, notes, repositories, recipes and other 
   * [Simple TypeScript Tricks to Scale Your Applications Infinitely](https://habr.com/en/company/tinkoff/blog/521262/) **[RU]**.
   * [TypeScript. Power of Never](https://habr.com/en/post/471026/) **[RU]**.
   * [The TypeScript Evolution series](https://mariusschulz.com/blog/series/typescript-evolution) :clipboard: **[EN]**.
+  * [Functional Programming in TypeScript: Higher-Order Gender Polymorphism](https://habr.com/ru/post/526024/) **[RU]**.
 </details>
 
 ## Repositories
