@@ -20,6 +20,7 @@ List of interesting materials, articles, notes, repositories, recipes and other 
   
   * [utility-types](https://github.com/piotrwitek/utility-types) - Collection of utility types, complementing TypeScript built-in mapped types and aliases (think "lodash" for static types) **[>2.4k :star:]**.
   * [ts-toolbelt](https://github.com/millsp/ts-toolbelt) - Higher Type Safety for TypeScript. A collection of useful types **[>1.7k :star:]**.
+  * [type<challenge[]>](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges **[>7.8k :star:]**.  
 </details>
 
 ## Books
