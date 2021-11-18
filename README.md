@@ -39,4 +39,10 @@ List of interesting materials, articles, notes, repositories, recipes and other 
   * [Official TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html) **[EN]**.
 </details>
 
+## Sites
+<details>
+  <summary>:computer: Show list ... </summary>
+  
+  * [Big Frontend](https://bigfrontend.dev/typescript) - TypeScript type challenges to level up TypeScript skills.
+</details>
 
