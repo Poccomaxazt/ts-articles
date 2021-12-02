@@ -30,6 +30,7 @@ List of interesting materials, articles, notes, repositories, recipes and other 
   <summary>:pencil: Show list ... </summary>
   
   * [TypeScript Deep Dive](https://basarat.gitbook.io/typescript/) :computer:.
+  * [Effective TypeScript](https://effectivetypescript.com/) 📖:.
 </details>
 
 ## Documentation
