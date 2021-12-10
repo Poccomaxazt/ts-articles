@@ -12,6 +12,7 @@ List of interesting materials, articles, notes, repositories, recipes and other 
   * [Functional Programming in TypeScript: Higher-Order Gender Polymorphism](https://habr.com/ru/post/526024/) **[RU]**.
   * [Typescript — how to Deep merge](https://dev.to/svehla/typescript-how-to-deep-merge-170c) **[EN]** (+ **[[RU]](https://habr.com/en/post/526998/)**).
   * [Mixin Classes in TypeScript](https://mariusschulz.com/blog/mixin-classes-in-typescript) **[EN]**.  
+  * [Advanced Typescript](https://kevinkreuzer.medium.com/advanced-typescript-43331bb4a875) **[EN]**.  
 </details>
 
 ## Repositories
