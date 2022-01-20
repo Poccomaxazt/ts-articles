@@ -11,8 +11,9 @@ List of interesting materials, articles, notes, repositories, recipes and other 
   * [The TypeScript Evolution series](https://mariusschulz.com/blog/series/typescript-evolution) :clipboard: **[EN]**.
   * [Functional Programming in TypeScript: Higher-Order Gender Polymorphism](https://habr.com/ru/post/526024/) **[RU]**.
   * [Typescript — how to Deep merge](https://dev.to/svehla/typescript-how-to-deep-merge-170c) **[EN]** (+ **[[RU]](https://habr.com/en/post/526998/)**).
-  * [Mixin Classes in TypeScript](https://mariusschulz.com/blog/mixin-classes-in-typescript) **[EN]**.  
-  * [Advanced Typescript](https://kevinkreuzer.medium.com/advanced-typescript-43331bb4a875) **[EN]**.  
+  * [Mixin Classes in TypeScript](https://mariusschulz.com/blog/mixin-classes-in-typescript) **[EN]**.
+  * [Advanced Typescript](https://kevinkreuzer.medium.com/advanced-typescript-43331bb4a875) **[EN]**.
+  * [Mastering mapped types in TypeScript](https://blog.logrocket.com/mastering-mapped-types-typescript/) **[EN]**.
 </details>
 
 ## Repositories
