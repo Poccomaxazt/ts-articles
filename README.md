@@ -14,6 +14,7 @@ List of interesting materials, articles, notes, repositories, recipes and other 
   * [Mixin Classes in TypeScript](https://mariusschulz.com/blog/mixin-classes-in-typescript) **[EN]**.
   * [Advanced Typescript](https://kevinkreuzer.medium.com/advanced-typescript-43331bb4a875) **[EN]**.
   * [Mastering mapped types in TypeScript](https://blog.logrocket.com/mastering-mapped-types-typescript/) **[EN]**.
+  * [TypeScript Visualized: 15 Most Used Utility Types](https://javascript.plainenglish.io/15-utility-types-that-every-typescript-developer-should-know-6cf121d4047c) **[EN]**.  
 </details>
 
 ## Repositories
