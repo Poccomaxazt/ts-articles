@@ -49,6 +49,7 @@ List of interesting materials, articles, notes, repositories, recipes and other 
   <summary>:computer: Show list ... </summary>
   
   * [Big Frontend](https://bigfrontend.dev/typescript) - TypeScript type challenges to level up TypeScript skills.
+  * [Total Typescript](https://www.totaltypescript.com/) - A comprehensive production-grade TypeScript training by Matt Pocock.
 </details>
 
 ## Video
