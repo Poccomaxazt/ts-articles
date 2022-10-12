@@ -51,3 +51,9 @@ List of interesting materials, articles, notes, repositories, recipes and other 
   * [Big Frontend](https://bigfrontend.dev/typescript) - TypeScript type challenges to level up TypeScript skills.
 </details>
 
+## Video
+<details>
+  <summary>:tv: Show list ... </summary>
+  
+  * [Tips and Tricks with Matt](https://www.youtube.com/watch?v=hBk4nV7q6-w&ab_channel=VisualStudioCode) - Special guest and TypeScript guru Matt Pocock joins the stream to teach you the ways of the TypeScript ninja.
+</details>
