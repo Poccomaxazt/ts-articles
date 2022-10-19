@@ -57,4 +57,5 @@ List of interesting materials, articles, notes, repositories, recipes and other 
   <summary>:tv: Show list ... </summary>
   
   * [Tips and Tricks with Matt](https://www.youtube.com/watch?v=hBk4nV7q6-w&ab_channel=VisualStudioCode) - Special guest and TypeScript guru Matt Pocock joins the stream to teach you the ways of the TypeScript ninja.
+  * [TypeScript Tutorial](https://www.youtube.com/watch?v=2pZmKW9-I_k&list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI) - The Net Ninja's TypeScript video series.
 </details>
