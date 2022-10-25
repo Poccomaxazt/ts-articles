@@ -16,6 +16,7 @@ List of interesting materials, articles, notes, repositories, recipes and other 
   * [Mastering mapped types in TypeScript](https://blog.logrocket.com/mastering-mapped-types-typescript/) **[EN]**.
   * [TypeScript Visualized: 15 Most Used Utility Types](https://javascript.plainenglish.io/15-utility-types-that-every-typescript-developer-should-know-6cf121d4047c) **[EN]**.
   * [Learn Advanced TypeScript Types](https://medium.com/free-code-camp/typescript-curry-ramda-types-f747e99744ab) **[EN]**.
+  * [The Art of Type Programming](https://itnext.io/the-art-of-type-programming-cfd933bdfff7) **[EN]**.
 </details>
 
 ## Repositories
